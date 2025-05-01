@@ -1,2 +1,30 @@
                                   DATA ANALYST PROJECT
 
+•
+Upload a document using the free online version of Microsoft Office 365.
+
+•
+Perform data analysis using sorting and filtering tools.
+
+•
+Perform data mining using the IF function.
+
+•
+Create references between tables and search for information with VLOOKUP.
+
+•
+Perform data analysis using PivotTables.
+
+
+Guided Project Structure
+This Guided Project is divided into 4 parts:
+
+Project Overview: This is the introductory reading material.
+
+Hands-on Project: The hands on project that we will work on together
+
+Graded Quiz: The final assignment that you need to pass in order to finish the project successfully.
+
+Learner Survey: Tell us what you thought about this guided project! 
+
+
